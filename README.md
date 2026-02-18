@@ -3,6 +3,13 @@
 Hands-on labs demonstrating essential disk maintenance tasks in Windows.  
 This repository contains two separate labs: one focused on disk optimization and the other on removable drive formatting.
 
+## 🛠️ Tools Used
+
+- Windows Disk Management
+- Windows 10/11
+- FAT32 file system (used for USB formatting)
+- Defragment and Optimize Drives utility
+
 ## 🔧 Lab 1: Defragmenting Disk C
 
 In this lab, I optimized the performance of the system’s Hard Disk Drive by defragmenting the C: drive.  
