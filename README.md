@@ -26,7 +26,11 @@ This makes it ideal for removable storage intended for general use.
 
 ## 📸 Screenshots
 
-All screenshots for both labs are stored in the Screenshots/ folder.
+- **defrag.png** — Shows the C: drive after running a defragmentation analysis, confirming the drive is optimized and fragmentation has been reduced.
+- **usb-format-step1.png** — Shows the USB drive before formatting, with 4.97 GB of unallocated space.
+- **usb-format-step2.png** — Shows the USB drive after formatting, now appearing under the Volume section as drive letter U and formatted with the FAT32 file system.
+
+
 
 ## 📂 Repository Structure
 
